@@ -1,7 +1,7 @@
+![Header Image](https://github.com/JackMBoynton/JackMBoynton/blob/master/Github-README-Header.jpg)
+
 ### Hi there 👋
 
-<!--
-**JackMBoynton/JackMBoynton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
