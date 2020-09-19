@@ -7,7 +7,7 @@
 👨‍💻 Actively looking for *job opportunities in Tech Industry* in *Liverpool / Remote* for my *Placement Year (2022)*
 
 # Education
-## 🏫 High School *2012 - 2017*
+## 🏫 High School *(2012 - 2017)*
 ### Maricourt Catholic Secondary School (GCSE)
 In a summary I achieved:
 - 1 Distinction
@@ -16,7 +16,7 @@ In a summary I achieved:
 
 *Studying core subjects as well as my options which were: Business, Computing and Art & Design.*
 
-## 📚 Sixth Form *2017 - 2019*
+## 📚 Sixth Form *(2017 - 2019)*
 ### Maricourt Catholic Secondary School (A Levels)
 In a summary I achieved:
 - Extended Diploma in Information Technology (Distinction* Distinction* Distinction*)
@@ -24,7 +24,7 @@ In a summary I achieved:
 
 *Completing 18 units of Information Technology including: Cloud Computing, Cyber Security, Software Development for Businesses, Web Design and Prototyping and more.*
 
-## 🎓 University *Current - 2023*
+## 🎓 University *(Current - 2023)*
 ### University of Liverpool (BSc)
 In my first year I achieved:
 - 1:1
