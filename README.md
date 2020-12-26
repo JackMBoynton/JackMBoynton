@@ -4,7 +4,6 @@
 👤 Jack Boynton  
 📍 Liverpool, UK  
 🎓 Currently studying BSc Computer Science with Software Development  
-👨‍💻 Actively looking for *job opportunities in Tech Industry* in *Liverpool / Remote* for my *Placement Year (2022)*
 
 # Education
 ## 🏫 High School *(2012 - 2017)*
