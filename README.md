@@ -1,5 +1,8 @@
 ![Header Image](https://github.com/JackMBoynton/JackMBoynton/blob/master/Github-README-Header.jpg)
 
+# My Github Overview
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackmboynton&show_icons=true&theme=vue)
+
 # About Me
 👤 Jack Boynton  
 📍 Liverpool, UK  
