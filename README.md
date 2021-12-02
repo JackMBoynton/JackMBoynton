@@ -26,26 +26,15 @@ In a summary I achieved:
 
 *Completing 18 units of Information Technology including: Cloud Computing, Cyber Security, Software Development for Businesses, Web Design and Prototyping and more.*
 
-## 🎓 University *(Current - 2023)*
+## 🎓 University *(Current - 2022)*
 ### University of Liverpool (BSc)
 In my first two years I achieved:
 - 70%+
 
 *I excelled in modules such as: Object-Oriented Programming, Designing Systems for the Digital Society and Programming Language Paradigms (functional programming), Computer Systems, Software Engineering I, Group Software Project, Computer Networks, Software Development Tools, App Development and Scripting Languages*
 
-# Languages and Frameworks (experience)
-| Language / Framework   | Experience |
-| ----------- | ----------- |
-| HTML      | Experienced       |
-| CSS   | Experienced        |
-| JavaScript   | Intermediate        |
-| PHP   | Intermediate        |
-| C#   | Intermediate        |
-| Java  | Intermediate        |
-| SQL   | Experienced        |
-| Bootstrap   | Intermediate        |
-| Laravel   | Minimal        |
-| React   | Minimal        |
-| Express   | Minimal        |
-| Angular   | Minimal        |
-| ASP.Net   | Minimal        |
+# Languages and Frameworks previously used
+Every language and framework I have studied and used whether in my own projects or School / University projects are as follows (experience in each differs): C#, Java, Swift, MySQL, JavaScript, PHP, HTML, CSS, Haskell, Python, C++ (Assembly Language (x86)), Bootstrap, React, Express, Node.js, MongoDB.
+
+*I am most confident in JavaScript, Python, C# and Java out of all of the above, these are langauges I have most experience in*
+
