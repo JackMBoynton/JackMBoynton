@@ -28,10 +28,10 @@ In a summary I achieved:
 
 ## 🎓 University *(Current - 2023)*
 ### University of Liverpool (BSc)
-In my first year I achieved:
-- 1:1
+In my first two years I achieved:
+- 70%+
 
-*I excelled in modules such as: Object-Oriented Programming, Designing Systems for the Digital Society and Programming Language Paradigms (functional programming).*
+*I excelled in modules such as: Object-Oriented Programming, Designing Systems for the Digital Society and Programming Language Paradigms (functional programming), Computer Systems, Software Engineering I, Group Software Project, Computer Networks, Software Development Tools, App Development and Scripting Languages*
 
 # Languages and Frameworks (experience)
 | Language / Framework   | Experience |
