@@ -6,7 +6,7 @@
 # About Me
 👤 Jack Boynton  
 📍 Liverpool, UK  
-🎓 Currently studying BSc Computer Science with Software Development  
+🎓 Graduated from University of Liverpool
 
 # Education
 ## 🏫 High School *(2012 - 2017)*
@@ -28,8 +28,7 @@ In a summary I achieved:
 
 ## 🎓 University *(Current - 2022)*
 ### University of Liverpool (BSc)
-In my first two years I achieved:
-- 70%+
+2:1 BSc in Computer Science with Software Development
 
 *I excelled in modules such as: Object-Oriented Programming, Designing Systems for the Digital Society and Programming Language Paradigms (functional programming), Computer Systems, Software Engineering I, Group Software Project, Computer Networks, Software Development Tools, App Development and Scripting Languages*
 
